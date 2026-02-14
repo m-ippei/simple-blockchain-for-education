@@ -40,6 +40,7 @@ python src/simple_blockchain/cli.py
 simple-blockchain/
 ├── README.md                      # このファイル
 ├── AGENTS.md                      # LLM実装者向けガイド
+├── DESIGN.md                      # 設計書
 ├── instructions/                  # 段階的実装指示
 │   ├── 01-SETUP.md
 │   ├── 02-PARTICIPANTS-TRANSACTION.md
@@ -84,10 +85,8 @@ simple-blockchain/
 ### 手動で実装する場合
 
 1. `AGENTS.md` - 実装原則を確認
-2. `要件整理書.md` - 何を作るかを理解
-3. `基本設計.md` - 全体構造を理解
-4. `詳細設計.md` - 各モジュールの仕様を確認
-5. `instructions/` - 段階的に実装
+2. `DESIGN.md` - 作り方を理解
+3. `instructions/` - 段階的に実装
 
 ## 動作確認
 
