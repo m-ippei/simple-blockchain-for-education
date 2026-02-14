@@ -160,6 +160,3 @@ MIT License - 自由に学習・改変してください
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/)
 - Python ハッシュライブラリ: `hashlib`
 
----
-
-**開発者向け:** 詳細な設計書は `要件整理書.md`, `基本設計.md`, `詳細設計.md` を参照
